@@ -4,3 +4,5 @@
 💻 Doing mostly web projects\
 🚧 Personal site under construction\
 📧 rosalammora@gmail.com
+
+<sub>Make your own <a href="https://github.com/fangpenlin/avataaars">avataaar</a></sub>
