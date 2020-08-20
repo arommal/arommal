@@ -2,7 +2,8 @@
 
 🎓 Informatics Undergraduate\
 💻 Doing mostly web projects\
-🚧 Personal site under construction\
-📧 rosalammora@gmail.com
+🚧 Personal site under construction
 
+<sub>Mail to rosalammora@gmail.com</sub>\
+<sup>My <a href="https://www.linkedin.com/in/rosavls/">LinkedIn</a> profile</sup>\
 <sub>Make your own <a href="https://github.com/fangpenlin/avataaars">avataaar</a></sub>
