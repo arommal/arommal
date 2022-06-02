@@ -1,8 +1,11 @@
-### <img src="https://i.ibb.co/tB26qLv/avataaars.png" width="70px"> Hello! 👋🏼 I go by the name Rosa.
+### 👋🏼 Hello. Welcome.
 
-🎓 Informatics Undergraduate\
-💻 Doing mostly web projects
+Learning & trying to document the process.
+
+![](https://raw.githubusercontent.com/arommal/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/arommal/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/arommal/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/arommal/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <sub>Mail to rosalammora@gmail.com</sub>\
-<sup>My <a href="https://www.linkedin.com/in/rosavls/">LinkedIn</a> profile</sup>\
-<sub>Make your own <a href="https://github.com/fangpenlin/avataaars">avataaar</a></sub>
+<sup>My <a href="https://www.linkedin.com/in/rosavls/">LinkedIn</a> profile</sup>
